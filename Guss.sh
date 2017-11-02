@@ -1,4 +1,4 @@
-
+#!/bin/bash
 #Guss the hacking libary installer
 
 
