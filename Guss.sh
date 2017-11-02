@@ -51,28 +51,28 @@ read $IN
 
 case $IN in
 a)
-  ETC=`cat /guss/indexGEN.txt`
+  ETC=`cat /guss/i/indexGEN.txt`
   ;;
 b)
-  ETC=`cat /guss/indexFOR.txt`
+  ETC=`cat /guss/i/indexFOR.txt`
   ;;
 c)
-  ETC=`cat /guss/indexPWN.txt`
+  ETC=`cat /guss/i/indexPWN.txt`
   ;;
 d)
-  ETC=`cat /guss/indexRE.txt`
+  ETC=`cat /guss/i/indexRE.txt`
   ;;
 e)
-  ETC=`cat /guss/indexCRY.txt`
+  ETC=`cat /guss/i/indexCRY.txt`
   ;;
 f)
-  ETC=`cat /guss/indexCRACK.txt`
+  ETC=`cat /guss/i/indexCRACK.txt`
   ;;
 g)
-  ETC=`cat /guss/indexPRO.txt`
+  ETC=`cat /guss/i/indexPRO.txt`
   ;;
 h)
-  ETC=`cat /guss/indexWEB.txt`
+  ETC=`cat /guss/i/indexWEB.txt`
   ;;
 *)
   echo "GUSS HAS HAD A STONK"
